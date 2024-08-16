@@ -9,15 +9,15 @@
 3. Ich will die nächsten Modul-Themen lernen. dadurch erweitere ich mein Wissen.
 4. Nochmal eine gute Seite zu programmieren und mich noch mehr mit Sprachen befassen.
 
-## 20.2.2024
+## 16.8.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mir meinen Ausbildungsbericht angeschaut und analysiert. heute hatte ich keinen richtigen Plan was ich machen sollte darum habe ich Heute nur C# geübt. Ich habe mir ein Lernvideo angeschaut gehabt ( nicht ganz ) und ich hatte mir eine gute Lernmethode überlegt gehabt. ich habe ChatGPT gefragt gehabt ob er mir übungen stellen kann und diese habe ich so weit wie möglich gelöst gehabt und dann habe ich es mir korrigieren lassen.(75)
 
-## 27.2.2024
+## 23.8.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] C# weiter üben mit CHatGPT
+- [ ] Das Lernvideo weiter schauen
+- [ ] Für Rechnungswesen lernen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
