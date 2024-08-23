@@ -15,20 +15,30 @@ Heute habe ich mir meinen Ausbildungsbericht angeschaut und analysiert. heute ha
 
 ## 23.8.2024
 
+- [x] C# weiter üben mit CHatGPT
+- [ ] Das Lernvideo weiter schauen
+- [x] Für Rechnungswesen lernen
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |       Aufgabe               |   Code schreiben              |  Program funktioniert               |   x       |
+| ...             |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+Heute habe ich mit ChatGPT weiter C# geübt und ich finde es hat gut geklapt, weil ich mit der Hilfe von ChatGPT programmieren viel besser üben kann und in C# brauche ich noch Übung um mit der Sprache besser coden zu können. Ich habe noch für Rechnungswesen gelernt gehabt weil wir am NAchmittag einen Test darüber hatten. Es war die Repetitionsprüfung vom ganzen letzten Jahr.
+
+
+## 30.8.2024
+
 - [ ] C# weiter üben mit CHatGPT
 - [ ] Das Lernvideo weiter schauen
-- [ ] Für Rechnungswesen lernen
+- [ ] Für Wirtschaft lernen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1               |                      |                |                |          |
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
-
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
-
 
 
 ## Reflexion
