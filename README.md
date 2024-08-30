@@ -1,6 +1,6 @@
 # Lernperiode-6
 
-16.8 bis -----
+16.8 bis 20.09
 
 ## Grob-Planung
 
