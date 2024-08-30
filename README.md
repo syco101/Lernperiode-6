@@ -30,8 +30,8 @@ Heute habe ich mit ChatGPT weiter C# geübt und ich finde es hat gut geklapt, we
 
 ## 30.8.2024
 
-- [ ] C# weiter üben mit CHatGPT
-- [ ] 
+- [ ] C# weiter üben mit ChatGPT
+- [ ] Sich mehr über das Buch K-pax informieren
 - [ ] Beim Promilerechner weiterkommen (fast fertig werden)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
