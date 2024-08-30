@@ -32,7 +32,7 @@ Heute habe ich mit ChatGPT weiter C# geübt und ich finde es hat gut geklapt, we
 
 - [ ] C# weiter üben mit ChatGPT
 - [ ] Sich mehr über das Buch K-pax informieren
-- [ ] Beim Promilerechner weiterkommen (fast fertig werden)
+- [x] Beim Promilerechner weiterkommen (fast fertig werden)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -43,4 +43,4 @@ Heute habe ich mit ChatGPT weiter C# geübt und ich finde es hat gut geklapt, we
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+Heute habe ich an dem Promillerechner programmiert ich bin aber nicht fertig geworden, weil ich nicht wusste wie ich das hin bekommen kann das es die Promille richtig ausrechnet bei verschiedenen Grössen und Gewichtsklassen. Sonst hatte ich noch ein wenig C Sharp geübt mit meiner ChatGPT Methode und ich finde das hat gut funktioniert.(54)
