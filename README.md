@@ -1,3 +1,4 @@
+
 # Lernperiode-6
 
 16.8 bis 20.09
@@ -44,3 +45,21 @@ Heute habe ich mit ChatGPT weiter C# geübt und ich finde es hat gut geklapt, we
 ## Reflexion
 
 Heute habe ich an dem Promillerechner programmiert ich bin aber nicht fertig geworden, weil ich nicht wusste wie ich das hin bekommen kann das es die Promille richtig ausrechnet bei verschiedenen Grössen und Gewichtsklassen. Sonst hatte ich noch ein wenig C Sharp geübt mit meiner ChatGPT Methode und ich finde das hat gut funktioniert.(54)
+
+
+## 06.09.2024
+
+
+- [ ] 
+- [ ] 
+- [ ] 
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |                      |                |                |          |
+| ...             |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+
+## Reflexion
+
