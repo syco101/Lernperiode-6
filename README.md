@@ -21,7 +21,7 @@ Heute habe ich mir meinen Ausbildungsbericht angeschaut und analysiert. heute ha
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |       Aufgabe               |   Code schreiben              |  Program funktioniert               |   x       |
+| 1               |  Aufgabe             | Code schreiben |   Program funktioniert |   x       |
 | ...             |                      |                |                |          |
 | 4               |                      |                |                |          |
 
@@ -31,8 +31,8 @@ Heute habe ich mit ChatGPT weiter C# geübt und ich finde es hat gut geklapt, we
 ## 30.8.2024
 
 - [ ] C# weiter üben mit CHatGPT
-- [ ] Das Lernvideo weiter schauen
-- [ ] Für Wirtschaft lernen
+- [ ] 
+- [ ] Beim Promilerechner weiterkommen (fast fertig werden)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
