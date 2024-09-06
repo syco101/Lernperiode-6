@@ -32,7 +32,7 @@ Heute habe ich mit ChatGPT weiter C# geübt und ich finde es hat gut geklapt, we
 ## 30.8.2024
 
 - [ ] C# weiter üben mit ChatGPT
-- [ ] Sich mehr über das Buch K-pax informieren
+- [x] Sich mehr über das Buch K-pax informieren
 - [x] Beim Promilerechner weiterkommen (fast fertig werden)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -50,9 +50,9 @@ Heute habe ich an dem Promillerechner programmiert ich bin aber nicht fertig gew
 ## 06.09.2024
 
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Deutsch Textgebundeneerörterung repetieren
+- [ ] C# weiter üben mit ChatGPT
+- [ ] Wirtschaft lernen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
