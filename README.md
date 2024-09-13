@@ -51,8 +51,8 @@ Heute habe ich an dem Promillerechner programmiert ich bin aber nicht fertig gew
 
 
 - [ ] 
-- [ ] Website mit Sebastian weiterprogrammiern ( Grundstruktur )
-- [ ] HTML und CSS nochmals repetieren
+- [ ] Ich werde das Thema mit den LoFi und HiFI nochmals repetieren und gut mirt der LB beginnen zu können
+- [ ] HTML und CSS nochmals repetieren um die Website gut programmieren zu können
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
