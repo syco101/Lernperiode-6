@@ -47,12 +47,12 @@ Heute habe ich mit ChatGPT weiter C# geübt und ich finde es hat gut geklapt, we
 Heute habe ich an dem Promillerechner programmiert ich bin aber nicht fertig geworden, weil ich nicht wusste wie ich das hin bekommen kann das es die Promille richtig ausrechnet bei verschiedenen Grössen und Gewichtsklassen. Sonst hatte ich noch eind wenig C Sharp geübt mit meiner ChatGPT Methode und ich finde das hat gut funktioniert.(54)
 
 
-## 06.09.2024
+## 13.09.2024
 
 
 - [ ] 
-- [ ] Ich werde das Thema mit den LoFi und HiFI nochmals repetieren und gut mirt der LB beginnen zu können
-- [ ] HTML und CSS nochmals repetieren um die Website gut programmieren zu können
+- [x] Ich werde das Thema mit den LoFi und HiFI nochmals repetieren und gut mirt der LB beginnen zu können
+- [x] HTML und CSS nochmals repetieren um die Website gut programmieren zu können
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
@@ -62,4 +62,21 @@ Heute habe ich an dem Promillerechner programmiert ich bin aber nicht fertig gew
 
 
 ## Reflexion
+Heute habe ich hauptsächlich an dem Modul 322 geaerbeitet und sehr viel repetiert damit ich für das nächste mal sehr gut vorbereitet bin um das LB gut zu beginnen mit Sebastian. Heute habe ich nichts mit c Sharp programmiert gehabt weil ich jetzt HTML und CSS für wichtiger empfunden habe. Ich glaube ich bin jetzt besser vorbereitet für das LB
 
+
+## 20.09.2024
+
+
+- [ ] 
+- [x] 
+- [x] 
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |                      |                |                |          |
+| ...             |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+
+## Reflexion
