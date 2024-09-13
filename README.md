@@ -44,15 +44,15 @@ Heute habe ich mit ChatGPT weiter C# geübt und ich finde es hat gut geklapt, we
 
 ## Reflexion
 
-Heute habe ich an dem Promillerechner programmiert ich bin aber nicht fertig geworden, weil ich nicht wusste wie ich das hin bekommen kann das es die Promille richtig ausrechnet bei verschiedenen Grössen und Gewichtsklassen. Sonst hatte ich noch ein wenig C Sharp geübt mit meiner ChatGPT Methode und ich finde das hat gut funktioniert.(54)
+Heute habe ich an dem Promillerechner programmiert ich bin aber nicht fertig geworden, weil ich nicht wusste wie ich das hin bekommen kann das es die Promille richtig ausrechnet bei verschiedenen Grössen und Gewichtsklassen. Sonst hatte ich noch eind wenig C Sharp geübt mit meiner ChatGPT Methode und ich finde das hat gut funktioniert.(54)
 
 
 ## 06.09.2024
 
 
-- [ ] Deutsch Textgebundeneerörterung repetieren
-- [ ] C# weiter üben mit ChatGPT
-- [ ] Wirtschaft lernen
+- [ ] 
+- [ ] Website mit Sebastian weiterprogrammiern ( Grundstruktur )
+- [ ] HTML und CSS nochmals repetieren
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
