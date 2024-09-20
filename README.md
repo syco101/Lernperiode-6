@@ -68,9 +68,9 @@ Heute habe ich hauptsächlich an dem Modul 322 geaerbeitet und sehr viel repetie
 ## 20.09.2024
 
 
-- [ ] 
-- [x] 
-- [x] 
+- [ ] Mit dem OBA von dem Modul 320 beginnen
+- [ ] Mit meinem Lernpartner an dem LB von 322 weiter arbeiten (fertig planen)
+- [ ] Evtl noch einen Auftrag im Modul 231 lösen (exZ)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
