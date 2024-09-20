@@ -62,14 +62,14 @@ Heute habe ich an dem Promillerechner programmiert ich bin aber nicht fertig gew
 
 
 ## Reflexion
-Heute habe ich hauptsächlich an dem Modul 322 geaerbeitet und sehr viel repetiert damit ich für das nächste mal sehr gut vorbereitet bin um das LB gut zu beginnen mit Sebastian. Heute habe ich nichts mit c Sharp programmiert gehabt weil ich jetzt HTML und CSS für wichtiger empfunden habe. Ich glaube ich bin jetzt besser vorbereitet für das LB
+Heute habe ich hauptsächlich an dem Modul 322 geaerbeitet und sehr viel repetiert damit ich für das nächste mal sehr gut vorbereitet bin um das LB gut zu beginnen mit Sebastian. Heute habe ich nichts mit c Sharp programmiert gehabt weil ich jetzt HTML und CSS für wichtiger empfunden habe. Ich glaube ich bin jetzt besser vorbereitet für das LB (60)
 
 
 ## 20.09.2024
 
 
-- [ ] Mit dem OBA von dem Modul 320 beginnen
-- [ ] Mit meinem Lernpartner an dem LB von 322 weiter arbeiten (fertig planen)
+- [x] Mit dem OBA von dem Modul 320 beginnen
+- [x] Mit meinem Lernpartner an dem LB von 322 weiter arbeiten
 - [ ] Evtl noch einen Auftrag im Modul 231 lösen (exZ)
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -80,3 +80,21 @@ Heute habe ich hauptsächlich an dem Modul 322 geaerbeitet und sehr viel repetie
 
 
 ## Reflexion
+Heute habe ich mit meinem Lernpartner an dem LB weiter gearbeitet. Wir haben unsere Website angefangen zu programmieren. Wir wollen Käse verkaufseite programmieren und KI Bilder haben wir auch noch schon dazu erstellen lassen. Ich habe noch mit dem OBA vom Modul 320 begonnen bin aber noch nicht so weit gekommen weil ich mehr Zeit ins programmieren der Seite rein investiert habe.(62)
+
+## 18.10.2024
+
+
+- [ ]
+- [ ]
+- [ ]
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |                      |                |                |          |
+| ...             |                      |                |                |          |
+| 4               |                      |                |                |          |
+
+
+## Reflexion
+
