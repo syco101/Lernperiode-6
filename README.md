@@ -82,19 +82,4 @@ Heute habe ich hauptsächlich an dem Modul 322 geaerbeitet und sehr viel repetie
 ## Reflexion
 Heute habe ich mit meinem Lernpartner an dem LB weiter gearbeitet. Wir haben unsere Website angefangen zu programmieren. Wir wollen Käse verkaufseite programmieren und KI Bilder haben wir auch noch schon dazu erstellen lassen. Ich habe noch mit dem OBA vom Modul 320 begonnen bin aber noch nicht so weit gekommen weil ich mehr Zeit ins programmieren der Seite rein investiert habe.(62)
 
-## 18.10.2024
-
-
-- [ ] Mit dem Modul 322 beginnen und es fertig machen evtl. weit wie möglich kommen.
-- [ ] ALte Aufgaben und Powerpoints repetieren (Wissen wieder auffrischen)
-- [ ]Den Cheese Shop ausbessern aus dem Modul 322. (Fehler behebung und fehlende Seiten ausfüllen)
-
-| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
-| --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
-
-
-## Reflexion
 
